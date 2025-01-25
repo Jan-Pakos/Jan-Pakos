@@ -22,6 +22,7 @@ I'm a passionate software developer specializing in building modern web applicat
 - 🎓 B.Sc. Computer and Systems Sciences (Ongoing) - Stockholm University
 - 🎓 B.Sc. Business Administration (Finance) - Stockholm University
 - 📜 CS50's Introduction to Computer Science - HarvardX
+- 📜 CS50's Web Programming with Python and JavaScript - HarvardX
 
 ## 🚧 Featured Projects
 1. **Systemvetardagen.com Job Fair Platform** 
@@ -43,9 +44,8 @@ I'm a passionate software developer specializing in building modern web applicat
 ## 🏆 Skills Highlights
 - Strong problem-solving abilities
 - Team leadership experience
-- UI/UX design knowledge
+- Java/Python
 - Proficient in VS Code and IntelliJ
-- Experienced in Agile development methodologies
 
 ## 🌱 Personal Interests
 When I'm not coding, you can find me:
@@ -55,7 +55,6 @@ When I'm not coding, you can find me:
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janpakos)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jan.p.pakos@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://janpakos.com)
 
 ---
