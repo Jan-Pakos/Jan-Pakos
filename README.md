@@ -51,7 +51,6 @@ I'm a software developer focused on backend development and creating practical w
 When I'm not coding, you can find me:
 - 💪 Working out as an amateur fitness enthusiast
 - ⚽ Playing football
-- 📊 Analyzing financial data
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janpakos)
