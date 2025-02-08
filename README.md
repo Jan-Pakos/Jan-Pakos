@@ -1,7 +1,7 @@
 # Hi there! I'm Jan Pakos 👋
 
 ## 🚀 About Me
-I'm a passionate software developer specializing in building modern web applications with a strong focus on backend development. Currently pursuing a B.Sc. in Computer and Systems Sciences at Stockholm University, I'm passionate about creating efficient, scalable, and user-centric solutions.
+I'm a software developer focused on backend development and creating practical web applications. I'm currently studying Computer and Systems Sciences at Stockholm University. I enjoy finding efficient and user-friendly solutions.
 
 ## 🛠️ Tech Stack
 ### Strongest Skills
@@ -16,7 +16,7 @@ I'm a passionate software developer specializing in building modern web applicat
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## 📚 Education
 - 🎓 B.Sc. Computer and Systems Sciences (Ongoing) - Stockholm University
