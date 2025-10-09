@@ -1,28 +1,27 @@
 # Hi there! I'm Jan Pakos 👋
 
 ## 🚀 About Me
-I'm a software developer focused on backend development and creating practical web applications. I'm currently studying Computer and Systems Sciences at Stockholm University. I enjoy finding efficient and user-friendly solutions.
+I'm a software developer focused on backend development. I'm currently studying Computer and Systems Sciences at Stockholm University.
 
 ## 🛠️ Tech Stack
 ### Strongest Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+
 
 ### Familiar With
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 📚 Education
 - 🎓 B.Sc. Computer and Systems Sciences (Ongoing) - Stockholm University
 - 🎓 B.Sc. Business Administration (Finance) - Stockholm University
-- 📜 CS50's Introduction to Computer Science - HarvardX
-- 📜 CS50's Web Programming with Python and JavaScript - HarvardX
 
 ## 🚧 Featured Projects
 1. **Systemvetardagen.com Job Fair Platform** 
