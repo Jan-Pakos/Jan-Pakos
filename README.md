@@ -25,7 +25,7 @@ I'm a software developer focused on backend development with Java.
 2. [**Songify RESTapi**](https://github.com/Jan-Pakos/songify)
    - Full CRUD API with Hibernate
    - Database on Docker with PostgreSQL
-   - Unit and Integration tests with JUnit5 and Mockito
+   - Unit & Integration tests with JUnit5, Mockito & testcontainers
    - Modular Monolith Architecture
    - Swagger OpenAPI Specification for Endpoints
 
