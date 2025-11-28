@@ -22,7 +22,7 @@ I'm a software developer focused on backend development with Java.
    - Contributed to a comprehensive job fair website for university students and companies
    - Tech Stack: TypeScript, React, AWS
 
-2. **Songify RESTapi**
+2. [**Songify RESTapi**](https://github.com/Jan-Pakos/songify)
    - Full CRUD API with Hibernate
    - Database on Docker with PostgreSQL
    - Unit and Integration tests with JUnit5 and Mockito
