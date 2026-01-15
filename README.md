@@ -32,7 +32,7 @@ I'm a software developer focused on backend development with Java.
    - OAuth with Spring Security
    - Requirements & happy path
      
-3. [**JobFinder**]([https://github.com/Jan-Pakos/songify](https://github.com/Jan-Pakos/JobFinder))
+3. [**JobFinder**](https://github.com/Jan-Pakos/JobFinder)
    - JAVA 21 API
    - Database on Docker with MongoDB
    - Unit & Integration tests with JUnit5, Mockito & testcontainers
