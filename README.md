@@ -23,11 +23,14 @@ I'm a software developer focused on backend development with Java.
    - Tech Stack: TypeScript, React, AWS
 
 2. [**Songify RESTapi**](https://github.com/Jan-Pakos/songify)
-   - Full CRUD API with Hibernate
+   - JAVA 21
+   - CRUD API with Hibernate
    - Database on Docker with PostgreSQL
    - Unit & Integration tests with JUnit5, Mockito & testcontainers
    - Modular Monolith Architecture
    - Swagger OpenAPI Specification for Endpoints
+   - OAuth with Spring Security
+   - Requirements & happy path
 
 
 ## 📚 Education
