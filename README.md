@@ -22,8 +22,7 @@ I'm a software developer focused on backend development with Java.
    - Contributed to a comprehensive job fair website for university students and companies
    - Tech Stack: TypeScript, React, AWS
 
-## I'm currently working on  
-2. [**MessengerLiveChat**](https://github.com/Jan-Pakos/MessengerLiveChat)
+2. [**MessengerLiveChat**](https://github.com/Jan-Pakos/MessengerLiveChat) ![WIP](https://img.shields.io/badge/status-WIP-yellow?style=flat-square)
    - Fullstack live messenger microservice using WebSockets(STOMP).
    - Database on Docker with PostgreSQL and Hibernate.
    - Unit & Integration tests with JUnit5, Mockito & testcontainers
