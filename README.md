@@ -22,7 +22,16 @@ I'm a software developer focused on backend development with Java.
    - Contributed to a comprehensive job fair website for university students and companies
    - Tech Stack: TypeScript, React, AWS
 
-2. [**Songify**](https://github.com/Jan-Pakos/songify)
+## I'm currently working on  
+2. [**MessengerLiveChat**](https://github.com/Jan-Pakos/MessengerLiveChat)
+   - Fullstack live messenger microservice using WebSockets(STOMP).
+   - Database on Docker with PostgreSQL and Hibernate.
+   - Unit & Integration tests with JUnit5, Mockito & testcontainers
+   - Swagger OpenAPI Specification for Endpoints
+   - OAuth with Spring Security
+   - Requirements & happy path
+
+3. [**Songify**](https://github.com/Jan-Pakos/songify)
    - JAVA 21
    - CRUD API with Hibernate
    - Database on Docker with PostgreSQL
@@ -32,7 +41,7 @@ I'm a software developer focused on backend development with Java.
    - OAuth with Spring Security
    - Requirements & happy path
      
-3. [**JobFinder**](https://github.com/Jan-Pakos/JobFinder)
+4. [**JobFinder**](https://github.com/Jan-Pakos/JobFinder)
    - JAVA 21 API
    - Database on Docker with MongoDB
    - Unit & Integration tests with JUnit5, Mockito & testcontainers
