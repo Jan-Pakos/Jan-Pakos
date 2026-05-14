@@ -1,8 +1,5 @@
 # Hi there! I'm Jan Pakos 👋
 
-## 🚀 About Me
-I'm a software developer focused on backend development with Java. 
-
 ## 🛠️ Tech Stack
 ### Main Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
