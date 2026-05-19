@@ -19,7 +19,7 @@
 
 
 ## 🚧 Featured Projects
-1. **Head of Web Development for Systemvetardagen.com**
+1. **Head of Web Development for Systemvetardagen.com**(https://github.com/Systemvetardagen/Systemvetardagen2025)
    - Lead a team of developers
    - Contributed to a comprehensive job fair website for university students and companies
    - Tech Stack: TypeScript, React, AWS
